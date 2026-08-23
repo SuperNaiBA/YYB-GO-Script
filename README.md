@@ -1,3 +1,6 @@
+
+推荐https://github.com/lcmovie/YYB-GO-Script-i 本仓库没时间维护了
+
 # YYB_SERVER
 
 YYB Go 适配版。
